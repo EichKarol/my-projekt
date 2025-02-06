@@ -1,2 +1,2 @@
-# my-projekt
+# my-project
 CdL - JavaScript Developer
